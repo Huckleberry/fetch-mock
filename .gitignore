@@ -11,7 +11,7 @@ coverage/
 .nyc_output
 
 # built files
-/es5
-/esm
-/cjs
+# /es5
+# /esm
+# /cjs
 /docs/_site/
